@@ -1,0 +1,9 @@
+- manueller vergleich
+- diff -u --> Unix
+- fc --> Windows
+
+- no multiple versions in different folders or renmaed with old. always one file with a change history
+
+- commit/save when a change is done (program is executable)
+
+- 
