@@ -1,0 +1,15 @@
+git init
+git add
+
+working area and staging area vergleichen:
+git diff		(ohne weitere argumente)
+
+stagingarea und repo vergleichen
+git diff --staged
+
+git branch --> Anzeige aller branches
+git branch name --> erzeugen eines branches name (basierend auf aktuellem stand)
+
+git merge branch1 (z.b master) branch2 (z.b. coins)
+git show 'id' --> zeigt veränderungen zum parent
+git branch -d name --> löscht label für branch
